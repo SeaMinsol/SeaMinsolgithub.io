@@ -26,3 +26,9 @@ text-decoration: none;
     color: coral;
     transition: 0.5s;
 }
+.btn{
+    text-decoration: none;
+    color: blue;
+    font-weight:  bold;
+    border: 2px solid chocolate;
+}
