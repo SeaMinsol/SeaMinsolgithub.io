@@ -18,6 +18,6 @@ background-color: rgb(149, 250, 242);
     font-weight: bold;
     padding: 20px 0;
 }
-.main-menu a{
-
+.main-menu a{/*применение для всех а, в main menu*/
+color: rgb(73, 20, 158);
 }
