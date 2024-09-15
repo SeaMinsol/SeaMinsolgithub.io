@@ -14,5 +14,5 @@ background-color: aqua;
     text-transform: uppercase;
 }
 .main-menu{
-    font-size: 20px;
+    font-size: 20px 0;
 }
