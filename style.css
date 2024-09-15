@@ -24,4 +24,5 @@ text-decoration: none;
 }
 .main-menu a:hover{
     color: coral;
+    transition: 0.5s;
 }
