@@ -20,4 +20,8 @@ background-color: rgb(149, 250, 242);
 }
 .main-menu a{/*применение для всех а, в main menu*/
 color: rgb(73, 20, 158);
+text-decoration: none;
+}
+.main-menu a:hover{
+    color: coral;
 }
