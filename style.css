@@ -31,4 +31,6 @@ text-decoration: none;
     color: blue;
     font-weight:  bold;
     border: 2px solid chocolate;
+    padding: 10px;
+    border-radius: 5px;
 }
