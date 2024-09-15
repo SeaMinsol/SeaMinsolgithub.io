@@ -8,7 +8,7 @@ body {
     background-image: url(../images/5aa0ff331257916204e4df83.jpg);
 background-size: cover;
 color: brown;
-background-color: aqua;
+background-color: rgb(149, 250, 242);
 }
 .name{
     text-transform: uppercase;
@@ -17,4 +17,7 @@ background-color: aqua;
     font-size: 20px 0;
     font-weight: bold;
     padding: 20px 0;
+}
+.main-menu a{
+
 }
